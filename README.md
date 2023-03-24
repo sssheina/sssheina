@@ -1,12 +1,12 @@
 
 
-### Hi there 👋
+### ✨ Hi there 👋
 
 
-**sssheina/sssheina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
-Here are some ideas to get you started:
+
+✨ Here are some ideas to get you started:
 
 - 💻 Working on Javascript, ReactJS, Node.js
 - 🔭 I’m currently working on completing a project to learn English
