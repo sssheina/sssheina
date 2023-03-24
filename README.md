@@ -1,8 +1,8 @@
-<div align="center" width="50">
+
 
 ### Hi there 👋
 
-</ div>
+
 **sssheina/sssheina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
