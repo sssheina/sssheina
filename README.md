@@ -1,12 +1,12 @@
 
 
-### ✨ Hi there 👋
+### ✨ Hi there 👋 ✨
 
 
 
 
 
-✨ Here are some ideas to get you started:
+ 
 
 - 💻 Working on Javascript, ReactJS, Node.js
 - 🔭 I’m currently working on completing a project to learn English
