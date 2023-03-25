@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="48" height="48"/>
+       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
       </a>
       <br>CSS3
     </td>
@@ -93,7 +93,7 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#sssheina-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="48" height="48"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
       </a>
       <br>GITHUB
     </td>
