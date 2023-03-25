@@ -125,7 +125,7 @@
       <a href="#sssheina-tech">
         <img src="./social/Adobe_Illustrator_CC_icon.svg" title="trello" **alt="trello"  width="48" height="48"/>
       </a>
-      <br>AI
+      <br>ILLUSTRATOR
     </td>
        
     
