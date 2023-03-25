@@ -5,8 +5,8 @@
 </br>
 </br>
 <h3 align="left">I am a frontend developer and vector graphic designer</h3>
-> Tools, languages, and other things that I like to work with.
 
+</hr>
 </br>
 </br>
 
