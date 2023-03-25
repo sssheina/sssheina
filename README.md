@@ -103,15 +103,15 @@
     </td>
     <td align="center"  width="96">
       <a href="#sssheina-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
+        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Bootstrap" **alt="Figma"  width="48" height="48"/>
       </a>
-      <br>CSS3
+      <br>FIGMA
     </td>
     <td align="center"  width="96">
       <a href="#sssheina-tech">
-        <img src="./img/redhat-original.svg" width="48" height="48" alt="RHEL" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" **alt="trello"  width="48" height="48"/>
       </a>
-      <br>RHEL
+      <br>TRELLO
     </td>
     
        
