@@ -3,7 +3,12 @@
 </p>
 
 
+<h3 align="left">I am a frontend developer and vector graphic designer</h3>
 
+
+<a href="#sssheina-title">
+  <img src="https://raw.githubusercontent.com/sssheina/github-stats-transparent/output/generated/overview.svg" alt="sssheina" align="right" />
+</a>
 
 
 
