@@ -4,7 +4,7 @@
 
 </br>
 </br>
-<h3 align="left">I am a frontend developer and vector graphic designer</h3>
+<h2 align="left">I am a frontend developer and vector graphic designer</h2>
 
 <hr>
 </br>
