@@ -20,7 +20,6 @@
 - 👯 I’m looking to collaborate on awesome web development projects. (Front-end preferably)
 - 🤔 I’m looking for help with looking for work in Europe
 - 💬 Ask me about IT technology, modular synthesis, design, sketching, classical or electronic music
-- 📫 How to reach me: https://t.me/VetaSheina
 - ⚡ Fun fact: human brain capacity exceeds 4 terabytes
 </br>
 </br>
@@ -171,4 +170,9 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/veta-sheina-521666249/)
 
 Thank you for visiting my profile 🤓
+
+
+- 📫 How to reach me: https://t.me/VetaSheina
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/sssheina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/veta-sheina-521666249//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/VetaSheina)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/https://codepen.io/sssheina)  
 
