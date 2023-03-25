@@ -85,7 +85,7 @@
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="48" height="48"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" **alt="npm" width="48" height="48"/>
       </a>
       <br>NPM
     </td>
