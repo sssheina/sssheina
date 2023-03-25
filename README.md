@@ -53,39 +53,39 @@
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" alt="Jsonnet" />
+        <img src="https://user-images.githubusercontent.com/108359930/221673250-00e9fda0-73c7-4e57-8911-e452fa852d6c.png" title="SASS" **alt="SASS" width="48" height="48"/>
       </a>
-      <br>Jsonnet
+      <br>SASS
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="./img/typescript-original.svg" alt="TypeScript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="48" height="48"/>
       </a>
-      <br>TypeScript
+      <br>CSS3
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="./img/javascript-original.svg" alt="JavaScript" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="48" height="48"/>
       </a>
-      <br>JavaScript
+      <br>HTML5
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech" >
-        <img src="./img/react-original.svg" width="48" height="48" alt="React" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="48" height="48"/>
       </a>
-      <br>React
+      <br>GIT
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
+       <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"  width="48" height="48" />
       </a>
-      <br>Bootstrap
+      <br>BOOTSTRAP
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" **alt="npm" width="48" height="48"/>
       </a>
-      <br>Sass
+      <br>NPM
     </td>
   </tr>
   <tr>
