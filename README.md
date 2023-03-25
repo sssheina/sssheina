@@ -6,7 +6,7 @@
 </br>
 <h3 align="left">I am a frontend developer and vector graphic designer</h3>
 
-</hr>
+<hr>
 </br>
 </br>
 
