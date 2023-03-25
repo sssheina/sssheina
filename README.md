@@ -101,6 +101,12 @@
       </a>
       <br>NodeJS
     </td>
+   <td align="center"  width="96">
+      <a href="#sssheina-tech">
+        <img src="./social/icons8-webpack.svg" title="trello" **alt="trello"  width="48" height="48"/>
+      </a>
+      <br>WEBPACK
+    </td>
     <td align="center"  width="96">
       <a href="#sssheina-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Bootstrap" **alt="Figma"  width="48" height="48"/>
@@ -113,7 +119,12 @@
       </a>
       <br>TRELLO
     </td>
-    
+    <td align="center"  width="96">
+      <a href="#sssheina-tech">
+        <img src="./social/Adobe_Illustrator_CC_icon.svg" title="trello" **alt="trello"  width="48" height="48"/>
+      </a>
+      <br>Adobe Illustrator
+    </td>
        
     
   </tr>
