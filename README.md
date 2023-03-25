@@ -17,6 +17,6 @@
 - 🤔 I’m looking for help with looking for work in Europe
 - 💬 Ask me about IT technology, modular synthesis, design, sketching, classical or electronic music
 - 📫 How to reach me: https://t.me/VetaSheina
-- ⚡ Fun fact: my symphony was played by the state television and radio orchestra.
+- ⚡ Fun fact: human brain capacity exceeds 4 terabytes
 
 
