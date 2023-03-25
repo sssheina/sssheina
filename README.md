@@ -1,5 +1,5 @@
 <p align="center">
- <img  width="544" height="274" src="./social/gif.gif">
+ <img  width="544" height="274" src="./social/gif_1.gif">
 </p>
 
  ✨ Hi there 👋 ✨
