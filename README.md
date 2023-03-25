@@ -105,7 +105,7 @@
     </td>
    <td align="center"  width="96">
       <a href="#sssheina-tech">
-        <img src="./social/icons8-webpack.svg" title="trello" **alt="trello"  width="48" height="48"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48"/>
       </a>
       <br>WEBPACK
     </td>
