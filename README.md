@@ -30,7 +30,9 @@
 <h2 align="left" id="sssheina-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
-> 
+
+</br>
+</br>
 <table  align="center">
   <tr>
     <td align="center" width="96">
