@@ -37,7 +37,7 @@
   <tr>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="48" height="48" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
       </a>
       <br>REACT
     </td>
@@ -117,7 +117,7 @@
     </td>
     <td align="center"  width="96">
       <a href="#sssheina-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg" title="trello" **alt="trello"  width="48" height="48"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48"/>
       </a>
       <br>TRELLO
     </td>
