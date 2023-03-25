@@ -37,19 +37,19 @@
       <a href="#sssheina-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="48" height="48" />
       </a>
-      <br>REACT
+      <br>
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux "width="48" height="48" />
       </a>
-      <br>REDUX
+      <br>
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48" />
       </a>
-      <br>JS
+      <br>
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
