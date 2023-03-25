@@ -55,7 +55,7 @@
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="https://user-images.githubusercontent.com/108359930/221673250-00e9fda0-73c7-4e57-8911-e452fa852d6c.png" title="SASS" **alt="SASS" width="48" height="48"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48"/>
       </a>
       <br>SASS
     </td>
