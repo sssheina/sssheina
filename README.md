@@ -170,3 +170,5 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/VetaSheina?style=social)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/veta-sheina-521666249/)
 
+Thank you for visiting my profile 🤓
+
