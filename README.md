@@ -35,37 +35,37 @@
   <tr>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="./img/csharp-original.svg" width="48" height="48" alt="C#" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="48" height="48" />
       </a>
-      <br>C#&nbsp;(Core)
+      <br>REACT
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="./img/python-original.svg" width="48" height="48" alt="Python" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux "width="48" height="48" />
       </a>
-      <br>Python
+      <br>REDUX
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="./img/go-flat.svg" width="48" height="48" alt="Golang" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48" />
       </a>
-      <br>Go
+      <br>JS
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="https://jsonnet.org/img/isologo.svg" width="48" height="48" alt="Jsonnet" />
+        <img src="https://jsonnet.org/img/isologo.svg" alt="Jsonnet" />
       </a>
       <br>Jsonnet
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="./img/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+        <img src="./img/typescript-original.svg" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech">
-        <img src="./img/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+        <img src="./img/javascript-original.svg" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
