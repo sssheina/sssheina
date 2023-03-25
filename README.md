@@ -11,7 +11,7 @@
  
 
 - 💻 Working on Javascript, ReactJS, Node.js
-- 🔭 I’m currently working on completing a project to learn English
+- 🔭 I’m currently working on completing an app to memorise English words
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on awesome web development projects. (Front-end preferably)
 - 🤔 I’m looking for help with looking for work in Europe
