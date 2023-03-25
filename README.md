@@ -37,7 +37,7 @@
 </br>
 </br>
 
-<p align="center">
+
 ### ✨Visitor count✨
 <img src="https://profile-counter.glitch.me/sssheina/count.svg" />
 </br>
@@ -47,4 +47,4 @@
 ### 📫 Reach me at 
 ![Twitter Follow](https://img.shields.io/twitter/follow/VetaSheina?style=social)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/veta-sheina-521666249/)
-</p>
+
