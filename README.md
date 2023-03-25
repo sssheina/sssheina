@@ -2,7 +2,7 @@
  <img  width="700" height="348" src="./social/gif_5.gif">
 </p>
 
- ✨ Hi there 👋 ✨
+
 
 
 
@@ -20,3 +20,5 @@
 - ⚡ Fun fact: human brain capacity exceeds 4 terabytes
 
 
+### ✨Visitor count✨
+<img src="https://profile-counter.glitch.me/sssheina/count.svg" />
