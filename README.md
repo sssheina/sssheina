@@ -91,9 +91,9 @@
   <tr>
     <td align="center" width="96"> 
       <a href="#sssheina-tech" >
-        <img src="./img/docker-original.svg" width="48" height="48" alt="Docker" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="48" height="48"/>
       </a>
-      <br>Docker
+      <br>GITHUB
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech" >
