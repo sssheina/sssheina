@@ -97,15 +97,15 @@
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech" >
-        <img src="https://raw.githubusercontent.com/cncf/artwork/master/projects/kubernetes/icon/color/kubernetes-icon-color.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="48" height="48"/>
       </a>
-      <br>Kubernetes
+      <br>NodeJS
     </td>
     <td align="center"  width="96">
       <a href="#sssheina-tech">
-        <img src="./img/debian-original.svg" width="48" height="48" alt="Debian" />
+        <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
       </a>
-      <br>Debian
+      <br>CSS3
     </td>
     <td align="center"  width="96">
       <a href="#sssheina-tech">
