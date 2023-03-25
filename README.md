@@ -109,6 +109,12 @@
       </a>
       <br>WEBPACK
     </td>
+   <td align="center"  width="96">
+      <a href="#sssheina-tech">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="48" height="48"/>
+      </a>
+      <br>VSC
+    </td> 
     <td align="center"  width="96">
       <a href="#sssheina-tech">
         <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Bootstrap" **alt="Figma"  width="48" height="48"/>
@@ -127,12 +133,13 @@
       </a>
       <br>AI
     </td>
-      <td align="center"  width="96">
+    <td align="center"  width="96">
       <a href="#sssheina-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="48" height="48"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48"/>
       </a>
-      <br>VSC
+      <br>PS
     </td> 
+      
    
     
   </tr>
