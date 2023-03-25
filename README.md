@@ -73,7 +73,7 @@
     </td>
     <td align="center" width="96">
       <a href="#sssheina-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="48" height="48"/>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="48" height="48"/>
       </a>
       <br>GIT
     </td>
