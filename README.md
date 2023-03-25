@@ -30,6 +30,7 @@
 <h2 align="left" id="sssheina-tech">Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
+> 
 <table>
   <tr>
     <td align="center" width="96">
@@ -75,7 +76,7 @@
       <br>React
     </td>
     <td align="center" width="96">
-      <a href="#macropower-tech">
+      <a href="#sssheina-tech">
         <img src="./img/bootstrap-plain.svg" width="48" height="48" alt="Bootstrap" />
       </a>
       <br>Bootstrap
