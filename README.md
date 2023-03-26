@@ -201,11 +201,16 @@
 <br><br>
 
 
-<h2 align="left" id="sssheina-tech">Visitor count</h2>
+
 <br><br>
 
 <div align="center"><br>
 <img src="https://profile-counter.glitch.me/sssheina/count.svg" />
+ 
+ [Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/sssheina/github-profile-views-counter
+
+![](https://hit.yhype.me/github/profile?user_id=108290460)
 </div>
 </br>
 </br>
