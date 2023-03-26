@@ -200,6 +200,10 @@
 </table>
 <br><br>
 
+</br>
+</br>
+
+<div align="center"><h3>Thank you for visiting my profile </h3></br>🤓😜</div></br>
 
 
 <br><br>
@@ -210,16 +214,8 @@
 
 
  
- [Ÿ HŸPE]: https://yhype.me
-[GitHub Profile Views Counter]: https://github.com/sssheina/github-profile-views-counter
 
-![](https://hit.yhype.me/github/profile?user_id=108290460)
 
-</br>
-</br>
-
-<div align="center"><h3>Thank you for visiting my profile </h3></br>🤓😜</div></br>
-</br></br>
 </br>
 
 
