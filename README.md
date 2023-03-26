@@ -176,17 +176,17 @@
       </a>
      </td>
    <td align="center" width="96">
-      <a href="www.linkedin.com/in/https://www.linkedin.com/in/veta-sheina-521666249">
+      <a href="https://www.linkedin.com/in/veta-sheina-521666249">
        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="48" height="48" />
       </a>
      </td>
    <td align="center" width="96">
-      <a href="https://twitter.com/https://twitter.com/VetaSheina">
+      <a href="https://twitter.com/VetaSheina">
        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width="48" height="48" />
       </a>
      </td>
    <td align="center" width="96">
-      <a href="https://codepen.io/https://codepen.io/sssheina">
+      <a href="https://codepen.io/sssheina">
        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' width="48" height="48" />
       </a>
      </td>
