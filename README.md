@@ -10,7 +10,7 @@
 
 </br>
 </br>
-<p>Motivated Frontend Developer with a passion for coding and attention to detail. Committed to creating clean, elegant code, I excel at combining creativity with technical expertise. </p>
+<p>Motivated Frontend Developer with a passion for coding and attention to detail. Committed to creating clean, elegant code, I excel at combining creativity with technical expertise. I am an active member of IT communities and founder of a group supporting women in IT,  have experience teaching students of all ages and a knack for creating compelling teaching materials. </p>
 </br>
 </br>
 
