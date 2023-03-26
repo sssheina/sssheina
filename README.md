@@ -19,7 +19,7 @@
 - 🔭 I’m currently working on completing an app to memorise English words
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on awesome web development projects. (Front-end preferably)
-- 🤔 I’m looking for help with looking for work in Europe
+- 🤔 I’m looking for a job in the EU remotely with the possibility of relocation
 - 💬 Ask me about IT technology, modular synthesis, design, sketching, classical or electronic music
 - ⚡ Fun fact: human brain capacity exceeds 4 terabytes
 </br>
