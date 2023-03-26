@@ -196,7 +196,7 @@
 <h2 align="left" id="sssheina-tech">Visitor count</h2>
 <br><br>
 
-<div align="center"><br><br>
+<div align="center"><br>
 <img src="https://profile-counter.glitch.me/sssheina/count.svg" />
 </div>
 </br>
