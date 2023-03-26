@@ -171,7 +171,7 @@
 <table  align="center">
   <tr>
     <td align="center" width="96">
-      <a href="https://github.com/https://github.com/sssheina">
+      <a href="https://github.com/sssheina">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="48" height="48" />
       </a>
      </td>
