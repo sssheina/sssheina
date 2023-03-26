@@ -200,6 +200,16 @@
 <div align="center"><h3>Thank you for visiting my profile! </h3></br>🤓😜</div>
 </br>
 
+<a href="https://github.com/sssheina/sssheina">
+    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+  </a>
+ <a href="https://github.com/sssheina?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+  </a>
+  <a href="https://github.com/sssheina/awesome-github-profile-readme">
+    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
+  </a>
+
 <div align="center"><br>
 <img src="https://profile-counter.glitch.me/sssheina/count.svg" />
 </div>
