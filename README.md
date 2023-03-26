@@ -21,6 +21,59 @@
 - 🤔 I’m looking for a job in the EU remotely with the possibility of relocation
 - 💬 Ask me about IT technology, modular synthesis, design, sketching, classical or electronic music
 - ⚡ Fun fact: human brain capacity exceeds 4 terabytes
+
+<br><br>
+
+<h2 align="left" id="sssheina-tech"> Profile statistics</h2><br><br>
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sssheina&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sssheina&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sssheina&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  
+</p>
+
+</br>
+
+
+<h2 align="left" id="sssheina-tech"> How to reach me</h2>
+
+> Links to my portfolio and social media.
+
+</br>
+</br>
+<table  align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="https://github.com/sssheina">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="48" height="48" />
+      </a><br>GITHUB
+     </td>
+    <td align="center" width="96">
+      <a href="https://t.me/VetaSheina">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' width="48" height="48" />
+      </a><br>TELEGRAM
+     </td>
+   <td align="center" width="96">
+      <a href="https://www.linkedin.com/in/veta-sheina-521666249">
+       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="48" height="48" />
+      </a><br>LINKEDIN
+     </td>
+   <td align="center" width="96">
+      <a href="https://twitter.com/VetaSheina">
+       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width="48" height="48" />
+      </a><br>TWITTER
+     </td>
+   <td align="center" width="96">
+      <a href="https://codepen.io/sssheina">
+       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' width="48" height="48" />
+      </a><br>CODEPEN
+     </td>
+   </tr>
+</table>
+
 </br>
 </br>
 
@@ -142,57 +195,8 @@
     
   </tr>
 </table>
-<br><br>
-
-<h2 align="left" id="sssheina-tech"> Profile statistics</h2><br><br>
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sssheina&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sssheina&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sssheina&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  
-</p>
-
-</br>
 
 
-<h2 align="left" id="sssheina-tech"> How to reach me</h2>
-
-> Links to my portfolio and social media.
-
-</br>
-</br>
-<table  align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/sssheina">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="48" height="48" />
-      </a><br>GITHUB
-     </td>
-    <td align="center" width="96">
-      <a href="https://t.me/VetaSheina">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' width="48" height="48" />
-      </a><br>TELEGRAM
-     </td>
-   <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/veta-sheina-521666249">
-       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="48" height="48" />
-      </a><br>LINKEDIN
-     </td>
-   <td align="center" width="96">
-      <a href="https://twitter.com/VetaSheina">
-       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width="48" height="48" />
-      </a><br>TWITTER
-     </td>
-   <td align="center" width="96">
-      <a href="https://codepen.io/sssheina">
-       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' width="48" height="48" />
-      </a><br>CODEPEN
-     </td>
-   </tr>
-</table>
 <br><br>
 
 <div align="center"><h3>Thank you for visiting my profile! </h3></br>🤓😜</div>
