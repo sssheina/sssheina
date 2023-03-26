@@ -158,9 +158,6 @@
 </p>
 
 </br>
-</br>
-
-
 
 
 <h2 align="left" id="sssheina-tech"> How to reach me</h2>
