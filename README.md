@@ -24,20 +24,6 @@
 
 <br><br>
 
-<h2 align="left" id="sssheina-tech"> Profile statistics</h2><br><br>
-
-<p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sssheina&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sssheina&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sssheina&theme=darcula&hide_border=true&background=FFFFFF00">
-  <br>
-  <br>
-  
-</p>
-
-</br>
-
-
 <h2 align="left" id="sssheina-tech"> How to reach me</h2>
 
 > Links to my portfolio and social media.
@@ -76,6 +62,22 @@
 
 </br>
 </br>
+
+<h2 align="left" id="sssheina-tech"> Profile statistics</h2><br><br>
+
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sssheina&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sssheina&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=sssheina&theme=darcula&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
+  
+</p>
+
+</br>
+
+
+
 
 
 <h2 align="left" id="sssheina-tech"> Favorite Tech</h2>
