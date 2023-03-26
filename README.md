@@ -4,7 +4,7 @@
 
 </br>
 </br>
-<h2 align="left">▪️ I am a frontend developer and vector graphic designer</h2>
+<h2 align="left">🔘 I am a frontend developer and vector graphic designer</h2>
 
 
 </br>
@@ -26,7 +26,7 @@
 
 <br>
 
-<h2 align="left" id="sssheina-tech">▪️ Favorite Tech</h2>
+<h2 align="left" id="sssheina-tech">🔘 Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
