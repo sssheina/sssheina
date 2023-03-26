@@ -200,6 +200,7 @@
 <div align="center"><h3>Thank you for visiting my profile! </h3></br>🤓😜</div>
 </br>
 
+<div align="center"><br>
 <a href="https://github.com/sssheina/sssheina">
     <img src="https://komarev.com/ghpvc/?username=sssheina" alt="page views" />
   </a>
@@ -209,11 +210,7 @@
   <a href="https://github.com/sssheina/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
   </a>
-
-<div align="center"><br>
-<img src="https://profile-counter.glitch.me/sssheina/count.svg" />
 </div>
-
 
  
 </br>
