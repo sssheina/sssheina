@@ -13,8 +13,6 @@
 
 
 
- 
-
 - 💻 Working on Javascript, ReactJS, Node.js
 - 🔭 I’m currently working on completing an app to memorise English words
 - 🌱 I’m currently learning React
@@ -25,7 +23,6 @@
 </br>
 </br>
 
-<br>
 
 <h2 align="left" id="sssheina-tech"> Favorite Tech</h2>
 
