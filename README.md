@@ -4,7 +4,7 @@
 
 </br>
 </br>
-<h2 align="left">🔖 I am a frontend developer and vector graphic designer</h2>
+<h2 align="left"> I am a frontend developer and vector graphic designer</h2>
 
 
 </br>
@@ -26,7 +26,7 @@
 
 <br>
 
-<h2 align="left" id="sssheina-tech">🔘 Favorite Tech</h2>
+<h2 align="left" id="sssheina-tech"> Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -161,7 +161,7 @@
 
 
 
-<h2 align="left" id="sssheina-tech">How to reach me</h2>
+<h2 align="left" id="sssheina-tech"> How to reach me</h2>
 
 </br>
 </br>
@@ -194,8 +194,9 @@
 
 <h2 align="left" id="sssheina-tech">Visitor count</h2>
 
-### ✨Visitor count✨
+<div align="center">
 <img src="https://profile-counter.glitch.me/sssheina/count.svg" />
+</div>
 </br>
 </br>
 
