@@ -164,8 +164,22 @@
 </br>
 </br>
 
+<h2 align="left" id="sssheina-tech">How to reach me</h2>
 
-### 📫 Reach me at 
+</br>
+</br>
+<table  align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#sssheina-tech">
+        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="48" height="48" />
+      </a>
+      
+    </td>
+   </tr>
+</table>
+<br><br>
+
 ![Twitter Follow](https://img.shields.io/twitter/follow/VetaSheina?style=social)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/veta-sheina-521666249/)
 
