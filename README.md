@@ -201,10 +201,10 @@
 </br>
 
 <a href="https://github.com/sssheina/sssheina">
-    <img src="https://komarev.com/ghpvc/?username=macropower" alt="page views" />
+    <img src="https://komarev.com/ghpvc/?username=sssheina" alt="page views" />
   </a>
  <a href="https://github.com/sssheina?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/MacroPower?color=green&logo=github">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/sssheina?color=green&logo=github">
   </a>
   <a href="https://github.com/sssheina/awesome-github-profile-readme">
     <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
