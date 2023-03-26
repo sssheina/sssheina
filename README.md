@@ -200,7 +200,7 @@
 </br>
 </br>
 
-<div align="center"><h4>Thank you for visiting my profile 🤓</h4></div></br>
+<div align="center"><h3>Thank you for visiting my profile </h3></br>🤓</div></br>
 </br></br>
 </br>
 
