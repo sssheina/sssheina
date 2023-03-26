@@ -4,7 +4,7 @@
 
 </br>
 </br>
-<h2 align="left">I am a frontend developer and vector graphic designer</h2>
+<h2 align="left">▪️ I am a frontend developer and vector graphic designer</h2>
 
 
 </br>
@@ -26,7 +26,7 @@
 
 <br>
 
-<h2 align="left" id="sssheina-tech">Favorite Tech</h2>
+<h2 align="left" id="sssheina-tech">▪️ Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
@@ -159,10 +159,7 @@
 </br>
 
 
-### ✨Visitor count✨
-<img src="https://profile-counter.glitch.me/sssheina/count.svg" />
-</br>
-</br>
+
 
 <h2 align="left" id="sssheina-tech">How to reach me</h2>
 
@@ -194,13 +191,18 @@
 </table>
 <br><br>
 
-![Twitter Follow](https://img.shields.io/twitter/follow/VetaSheina?style=social)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/veta-sheina-521666249/)
+
+<h2 align="left" id="sssheina-tech">Visitor count</h2>
+
+### ✨Visitor count✨
+<img src="https://profile-counter.glitch.me/sssheina/count.svg" />
+</br>
+</br>
 
 Thank you for visiting my profile 🤓
 
 
-- 📫 How to reach me: https://t.me/VetaSheina
+
 
 
 
