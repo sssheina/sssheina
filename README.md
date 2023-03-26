@@ -13,7 +13,7 @@
 Motivated Frontend Developer with a passion for coding and attention to detail. Committed to creating clean, elegant code, I excel at combining creativity with technical expertise. 
 </br>
 </br>
-
+</br>
 - 💻 Working on Javascript, ReactJS, Node.js
 - 🔭 I’m currently working on completing an app to memorise English words
 - 🌱 I’m currently learning React
