@@ -174,8 +174,12 @@
       <a href="#sssheina-tech">
         <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="48" height="48" />
       </a>
-      
-    </td>
+     </td>
+   <td align="center" width="96">
+      <a href="#sssheina-tech">
+        [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="48" height="48" />](https://github.com/https://github.com/sssheina)
+      </a>
+     </td>
    </tr>
 </table>
 <br><br>
