@@ -1,4 +1,5 @@
 <p align="center">
+ <br><br>
  <img  width="700" height="348" src="./social/gif_5.gif">
 </p>
 
@@ -163,6 +164,7 @@
 
 
 <h2 align="left" id="sssheina-tech"> How to reach me</h2>
+
 > Links to my portfolio and social media.
 
 </br>
