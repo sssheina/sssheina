@@ -5,13 +5,14 @@
 
 </br>
 </br>
-<h2 align="left"> I am a frontend developer and vector graphic designer</h2>
+<h2 align="left"> About me</h2>
 
 
 </br>
 </br>
-
-
+Motivated Frontend Developer with a passion for coding and attention to detail. Committed to creating clean, elegant code, I excel at combining creativity with technical expertise. 
+</br>
+</br>
 
 - 💻 Working on Javascript, ReactJS, Node.js
 - 🔭 I’m currently working on completing an app to memorise English words
