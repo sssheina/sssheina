@@ -57,6 +57,12 @@
        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' width="48" height="48" />
       </a><br>CODEPEN
      </td>
+   <td align="center" width="96">
+      <a href="https://www.behance.net/svsheina">
+       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' width="48" height="48" />
+      </a><br>BEHANCE
+     </td>
+   
    </tr>
 </table>
 
