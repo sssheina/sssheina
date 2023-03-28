@@ -169,6 +169,12 @@
     </td>
    <td align="center"  width="96">
       <a href="#sssheina-tech">
+        <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="48" height="48"/>
+      </a>
+      <br>CHART.JS
+    </td> 
+   <td align="center"  width="96">
+      <a href="#sssheina-tech">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="48" height="48"/>
       </a>
       <br>VSC
