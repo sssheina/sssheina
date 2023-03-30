@@ -131,6 +131,12 @@
       </a>
       <br>HTML5
     </td>
+    <td align="center"  width="96">
+      <a href="#sssheina-tech">
+        <img src="./social/bem_logo_icon_247482.svg" width="48" height="48"/>
+      </a>
+      <br>BEM
+    </td>
     <td align="center" width="96">
       <a href="#sssheina-tech" >
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="48" height="48"/>
