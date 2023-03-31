@@ -187,6 +187,12 @@
       </a>
       <br>MOMENT.JS
     </td>
+    <td align="center"  width="96">
+      <a href="#sssheina-tech">
+        <img src="./social/animejs.jpg" width="48" height="48"/>
+      </a>
+      <br>ANIME.JS
+    </td>
    <td align="center"  width="96">
       <a href="#sssheina-tech">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="48" height="48"/>
