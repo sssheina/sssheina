@@ -71,17 +71,14 @@
 
 <h2 align="left" id="sssheina-tech"> Profile statistics</h2><br><br>
 
-<p align="center">
-
-
-   <img height="170" src='https://github-readme-stats.vercel.app/api?username=sssheina&show_icons=true&theme=omni&hide_border=true&border_radius=15' alt='sssheina's GitHub stats' />
-   <img height="170" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sssheina&langs_count=8&layout=compact&theme=omni&hide_border=true&border_radius=15' alt='Top Langs' />
- 
+<div align="center">
+  <img height="170" src='https://github-readme-stats.vercel.app/api?username=sssheina&show_icons=true&theme=omni&hide_border=true&border_radius=15' alt='sssheina's GitHub stats' />
+  <img height="170" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sssheina&langs_count=8&layout=compact&theme=omni&hide_border=true&border_radius=15' alt='Top Langs' />
+  
   <br>
   <img src='https://streak-stats.demolab.com?user=sssheina&theme=sunset-gradient&hide_border=true&border_radius=15' alt='GitHub Streak' />
-  
-  
-</p>
+</div>
+
 
 </br>
 
