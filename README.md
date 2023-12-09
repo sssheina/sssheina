@@ -73,13 +73,10 @@
 
 <p align="center">
 
- // <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=sssheina&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  // <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=sssheina&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  
-  // <img src ="https://github-readme-streak-stats.herokuapp.com?user=sssheina&theme=darcula&hide_border=true&background=FFFFFF00">
 
+ <img height="170" src='https://github-readme-stats.vercel.app/api?username=sssheina&show_icons=true&theme=omni&hide_border=true&border_radius=15' alt='sssheina's GitHub stats' />
    <img height="170" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sssheina&langs_count=8&layout=compact&theme=omni&hide_border=true&border_radius=15' alt='Top Langs' />
-  <img height="170" src='https://github-readme-stats.vercel.app/api?username=sssheina&show_icons=true&theme=omni&hide_border=true&border_radius=15' alt='sssheina's GitHub stats' />
+ 
   <br>
   <img src='https://streak-stats.demolab.com?user=sssheina&theme=sunset-gradient&hide_border=true&border_radius=15' alt='GitHub Streak' />
   
