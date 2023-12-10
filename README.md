@@ -69,95 +69,35 @@
 
 </br>
 </br>
+
+<div align="center">
+ 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+
+</div>
+
 <table  align="center">
   <tr>
-    <td align="center" width="96">
-      <a href="#sssheina-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" height="48" />
-      </a>
-      <br>REACT
-    </td>
-    <td align="center" width="96">
-      <a href="#sssheina-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux "width="48" height="48" />
-      </a>
-      <br>REDUX
-    </td>
-    <td align="center" width="96">
-      <a href="#sssheina-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="48" height="48" />
-      </a>
-      <br>JS
-    </td>
-    <td align="center" width="96">
-      <a href="#sssheina-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="48" height="48"/>
-      </a>
-      <br>SASS
-    </td>
-    <td align="center" width="96">
-      <a href="#sssheina-tech">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48"/>
-      </a>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <a href="#sssheina-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="48" height="48"/>
-      </a>
-      <br>HTML5
-    </td>
     <td align="center"  width="96">
       <a href="#sssheina-tech">
         <img src="./social/bem_logo_icon_247482.svg" width="48" height="48"/>
       </a>
       <br>BEM
     </td>
-    <td align="center" width="96">
-      <a href="#sssheina-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  width="48" height="48"/>
-      </a>
-      <br>GIT
-    </td>
-    <td align="center" width="96">
-      <a href="#sssheina-tech">
-       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48" height="48"/>
-      </a>
-      <br>BOOTSTRAP
-    </td>
-    <td align="center" width="96">
-      <a href="#sssheina-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" **alt="npm" width="48" height="48"/>
-      </a>
-      <br>NPM
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96"> 
-      <a href="#sssheina-tech" >
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48"/>
-      </a>
-      <br>GITHUB
-    </td>
-    <td align="center" width="96">
-      <a href="#sssheina-tech" >
-        <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="48" height="48"/>
-      </a>
-      <br>NodeJS
-    </td>
    <td align="center"  width="96">
-      <a href="#sssheina-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48"/>
-      </a>
-      <br>WEBPACK
-    </td>
-   <td align="center"  width="96">
-      <a href="#sssheina-tech">
-        <img src="https://www.chartjs.org/img/chartjs-logo.svg" width="48" height="48"/>
-      </a>
-      <br>CHART.JS
-    </td> 
-    <td align="center"  width="96">
       <a href="#sssheina-tech">
         <img src="./social/moment-js.svg" width="48" height="48"/>
       </a>
@@ -169,39 +109,6 @@
       </a>
       <br>ANIME.JS
     </td>
-   <td align="center"  width="96">
-      <a href="#sssheina-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="48" height="48"/>
-      </a>
-      <br>VSC
-    </td> 
-    <td align="center"  width="96">
-      <a href="#sssheina-tech">
-        <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Bootstrap" **alt="Figma"  width="48" height="48"/>
-      </a>
-      <br>FIGMA
-    </td>
-    <td align="center"  width="96">
-      <a href="#sssheina-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" width="48" height="48"/>
-      </a>
-      <br>TRELLO
-    </td>
-    <td align="center"  width="96">
-      <a href="#sssheina-tech">
-        <img src="./social/Adobe_Illustrator_CC_icon.svg" title="trello" **alt="trello"  width="48" height="48"/>
-      </a>
-      <br>AI
-    </td>
-    <td align="center"  width="96">
-      <a href="#sssheina-tech">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48"/>
-      </a>
-      <br>PS
-    </td> 
-      
-   
-    
   </tr>
 </table>
 
