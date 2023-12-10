@@ -125,10 +125,7 @@
  <a href="https://github.com/sssheina?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/sssheina?color=green&logo=github">
   </a>
-  <a href="https://github.com/sssheina/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
-</div>
+  </div>
 
  
 </br>
