@@ -86,32 +86,14 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![BEM](https://img.shields.io/badge/BEM-black?style=for-the-badge&logo=bem)
+![MOMENT.JS](https://img.shields.io/badge/MOMENT.JS-5C998F?style=for-the-badge&logo=moment&logoColor=white)
+![ANIME.JS](https://img.shields.io/badge/ANIME.JS-black?style=for-the-badge&logo=anime.js)
+
+
+
 
 </div>
-
-<table  align="center">
-  <tr>
-    <td align="center"  width="96">
-      <a href="#sssheina-tech">
-        <img src="./social/bem_logo_icon_247482.svg" width="48" height="48"/>
-      </a>
-      <br>BEM
-    </td>
-   <td align="center"  width="96">
-      <a href="#sssheina-tech">
-        <img src="./social/moment-js.svg" width="48" height="48"/>
-      </a>
-      <br>MOMENT.JS
-    </td>
-    <td align="center"  width="96">
-      <a href="#sssheina-tech">
-        <img src="./social/animejs.jpg" width="48" height="48"/>
-      </a>
-      <br>ANIME.JS
-    </td>
-  </tr>
-</table>
-
 
 <br><br>
 
