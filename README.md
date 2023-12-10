@@ -32,49 +32,16 @@
 </br>
 
 <div align="center">
+ 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/VetaSheina)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sssheina)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)
-![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/veta-sheina-521666249)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/VetaSheina)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/sssheina)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/svsheina)
 </div>
  
-<table  align="center">
-  <tr>
-    <td align="center" width="96">
-      <a href="https://github.com/sssheina">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' width="48" height="48" />
-      </a><br>GITHUB
-     </td>
-    <td align="center" width="96">
-      <a href="https://t.me/VetaSheina">
-        <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' width="48" height="48" />
-      </a><br>TELEGRAM
-     </td>
-   <td align="center" width="96">
-      <a href="https://www.linkedin.com/in/veta-sheina-521666249">
-       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' width="48" height="48" />
-      </a><br>LINKEDIN
-     </td>
-   <td align="center" width="96">
-      <a href="https://twitter.com/VetaSheina">
-       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' width="48" height="48" />
-      </a><br>TWITTER
-     </td>
-   <td align="center" width="96">
-      <a href="https://codepen.io/sssheina">
-       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' width="48" height="48" />
-      </a><br>CODEPEN
-     </td>
-   <td align="center" width="96">
-      <a href="https://www.behance.net/svsheina">
-       <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg' alt='behance' width="48" height="48" />
-      </a><br>BEHANCE
-     </td>
-   
-   </tr>
-</table>
+
 
 </br>
 </br>
